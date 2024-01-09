@@ -15,9 +15,8 @@
 ### Embedded Chromium Browser within your IntelliJ Platform-IDE.
 
 > [!NOTE]
-> This repository currently contains a bug tracker that makes it easier to identify errors.
-> <br>
-> Download the plugin from the JetBrains Marketplace: 
+> This repository currently contains a bug tracker that makes it easier to identify errors. <br>Download the plugin from the
+> [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/23275-browser)
 
 ### Benefits
 - Chrome DevTools as toolwindow and window
