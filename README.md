@@ -1,10 +1,23 @@
-# IntelliJ Platform Browser Plugin
 
-Embedded Chromium Browser within your IntelliJ Platform-IDE.
+#
 
-> **Note**
->
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alexandermalcin/intellij-platform-browser-plugin/assets/3718758/81e50daa-d5c2-432e-ad2d-b826bfeaa479">
+  <img alt="Browser plugin App icon" src="https://github.com/alexandermalcin/intellij-platform-browser-plugin/assets/3718758/33a40d56-5c0a-4dc9-ac14-335840be6949">
+</picture>
+
+<br>
+
+#
+
+### Embedded Chromium Browser within your IntelliJ Platform-IDE.
+
+> [!NOTE]
 > This repository currently contains a bug tracker that makes it easier to identify errors.
+> <br>
+> Download the plugin from the JetBrains Marketplace: 
 
 ### Benefits
 - Chrome DevTools as toolwindow and window
