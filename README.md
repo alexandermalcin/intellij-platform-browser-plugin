@@ -1,5 +1,4 @@
 
-#
 
 <br>
 
@@ -8,9 +7,9 @@
   <img alt="Browser plugin App icon" src="https://github.com/alexandermalcin/intellij-platform-browser-plugin/assets/3718758/33a40d56-5c0a-4dc9-ac14-335840be6949">
 </picture>
 
-<br>
-
 #
+
+
 
 ### Embedded Chromium Browser within your IntelliJ Platform-IDE.
 
