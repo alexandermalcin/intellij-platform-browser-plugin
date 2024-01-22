@@ -28,7 +28,7 @@
 - Customizable response headers
 
 ### Browser Actions
-- Add Tap, Close Tap, Duplicate Tap
+- Add Tab, Close Tab, Duplicate Tab
 - Home, Reload, Open in Default Browser, Forward, Backward, Stop
 - ZoomIn, ZoomOut, ZoomReset
 - Add Bookmark, Delete Bookmark, Edit Bookmarks, List Bookmarks
